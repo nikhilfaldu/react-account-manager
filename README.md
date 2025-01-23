@@ -32,7 +32,7 @@ LocalStorage for persistent data storage.
 
 ## 🎉 Live Demo
 
-Live Demo Link (https://react-account-manager.vercel.app/)
+<a href="https://react-account-manager.vercel.app/">Live Demo</a>
 
 ## 🤝 Contributing
 
